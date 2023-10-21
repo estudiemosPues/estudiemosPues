@@ -12,6 +12,8 @@ Soy un apasionado ingeniero de automatización de pruebas con experiencia en div
 
 Aquí hay una vista rápida de mis habilidades técnicas y herramientas que utilizo:
 
+![Static Badge](https://img.shields.io/badge/automation-path?style=social&logo=selenium)
+
 - 💼 **Lenguajes de Programación**: Java, Python
 - 🛠️ **Frameworks de Automatización**: Robot Framework, Selenium WebDriver
 - 📊 **Herramientas de Informes**: Allure, Extent Reports
