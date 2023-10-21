@@ -1,6 +1,8 @@
-# Hola, soy [Tu Nombre] 🤖
+# Hola, soy [Juan Herrera] 🤖
 
 ¡Bienvenido a mi perfil como Test Automation Engineer! 👋
+
+![Banner](https://github.com/estudiemosPues/estudiemosPues/blob/main/banner.jpg)
 
 ## Acerca de Mí
 
